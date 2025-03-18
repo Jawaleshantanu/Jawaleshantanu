@@ -23,7 +23,8 @@ Welcome to **Shantanu Jawale**, a **Full-Stack Java Development** Experienced **
 
 ### 🗄️ **Database**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://github.com/user-attachments/assets/16c1519c-8347-41cd-aaac-d43b7f117ebe)
+![Mongodb](https://github.com/user-attachments/assets/9d9400b9-addd-484d-8ac2-d04a1261438d)
+
  
 
 ---
