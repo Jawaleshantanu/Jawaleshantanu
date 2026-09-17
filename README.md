@@ -1,4 +1,4 @@
-# 🚀 Jawaleshantanu 
+# 🚀 Jawale shantanu 
 #**Java Full Stack Developer | Passionate about Building Scalable & Efficient Applications**
 
 Welcome to **Shantanu Jawale**, a **Full-Stack Java Development** Experienced **Java Full Stack Developer** with a strong foundation in both **front-end** and **back-end technologies**. Proficient in **Java, Spring Boot, RESTful APIs, and microservices architecture**. **Skilled in front-end frameworks like React.js , ensuring seamless user experiences**. **Committed to writing clean, maintainable code and delivering high-performance applications**. Adept at working in Agile environments, collaborating with cross-functional teams, and continuously exploring new technologies.
